@@ -1,0 +1,12 @@
+Cloning into processing
+remote numerating objects 20 done
+remote counting objects 100% (20/20) done.
+remote compressing objects: 100% (17/176620) 20.01 kib
+
+and the download goes on...
+
+Error RPC failed; curl 56 GnuTLS recv error (-9)
+Error decoding yhe received TLS packet.
+fatal the remote end hing up unexpectedly
+fatal: early EOF
+fatal:index-pack failed
